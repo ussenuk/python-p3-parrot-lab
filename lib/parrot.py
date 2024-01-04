@@ -1,3 +1,3 @@
 def parrot(saying="Squawk!"):
-    print (f"{saying}")
+    print (saying)
     return saying
